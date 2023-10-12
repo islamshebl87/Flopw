@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6930db66.css",
+    "main.js": "/static/js/main.768fca0b.js",
+    "static/media/newArrThree.jpg": "/static/media/newArrThree.8b0fafdd67d7759ac7d2.jpg",
+    "static/media/newArrTwo.jpg": "/static/media/newArrTwo.dfa53231e0c61b38ad30.jpg",
+    "static/media/bannerImgTwo.jpg": "/static/media/bannerImgTwo.63928e1b8d14de0b6076.jpg",
+    "static/media/bannerImgThree.jpg": "/static/media/bannerImgThree.d2aef26d029a32496dc1.jpg",
+    "static/media/bannerImgOne.jpg": "/static/media/bannerImgOne.ff5531582e7b4a77177a.jpg",
+    "static/media/newArrOne.jpg": "/static/media/newArrOne.4c540a2ac61d31ccaef2.jpg",
+    "static/media/newArrFour.jpg": "/static/media/newArrFour.c5b0731106053dc23450.jpg",
+    "static/media/bestSellerThree.jpg": "/static/media/bestSellerThree.ba2419b8f21547aaf951.jpg",
+    "static/media/spfTwo.jpg": "/static/media/spfTwo.c1e20744e09d7921d511.jpg",
+    "static/media/spfThree.jpg": "/static/media/spfThree.4e470475ca5a78faedab.jpg",
+    "static/media/bestSellerTwo.jpg": "/static/media/bestSellerTwo.533b832abb8f22e8317f.jpg",
+    "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.ecb733524e878406c281.webp",
+    "static/media/bestSellerOne.jpg": "/static/media/bestSellerOne.7316be71941d4abc2964.jpg",
+    "static/media/payment.png": "/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/productOfTheYear.webp": "/static/media/productOfTheYear.2c30f10b51873bab4630.webp",
+    "static/media/bestSellerFour.jpg": "/static/media/bestSellerFour.6b9f0fd2ea0eb791df5b.jpg",
+    "static/media/saleImgOne.webp": "/static/media/saleImgOne.5fd9a91421b8b3d52f04.webp",
+    "static/media/saleImgThree.webp": "/static/media/saleImgThree.7f55d28e41e547163b6c.webp",
+    "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/flopLogo.png": "/static/media/flopLogo.33acff66c77a852c3f57.png",
+    "static/media/spfOne.webp": "/static/media/spfOne.af2c5aa8d8015ffcccf4.webp",
+    "static/media/spfFour.webp": "/static/media/spfFour.d005441cba54d7214bf7.webp",
+    "index.html": "/index.html",
+    "main.6930db66.css.map": "/static/css/main.6930db66.css.map",
+    "main.768fca0b.js.map": "/static/js/main.768fca0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6930db66.css",
+    "static/js/main.768fca0b.js"
+  ]
+}
